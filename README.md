@@ -12,4 +12,15 @@
 进入mini_spider文件夹中，使用命令：
 ```buildoutcfg
 python spider_main.py -c spider.conf
+```
 
+### 相关依赖包
+* requests>=2.18.4
+* chardet>=3.0
+* beautifulsoup4>=4.6
+
+可以使用命令，进行部署执行。
+```buildoutcfg
+python setup.py bdist_egg
+python setup.py install
+```
