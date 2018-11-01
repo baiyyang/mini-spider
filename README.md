@@ -7,3 +7,9 @@
 * html_manager.py: 实现页面的抓取、页面url提取解析、页面保存功能。
 * spider_main.py: 程序的入口文件，负责进行各个模块之间的调度。
 2. test/: 程序的测试代码。
+
+### 使用方法
+进入mini_spider文件夹中，使用命令：
+```buildoutcfg
+python spider_main.py -c spider.conf
+
