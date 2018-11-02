@@ -34,5 +34,4 @@ python spider_main.py -c spider.conf
 python setup.py bdist_egg
 python setup.py install
 ```
-
-afsd
+欢迎star or fork or PR
