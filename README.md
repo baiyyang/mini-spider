@@ -35,4 +35,4 @@ python setup.py bdist_egg
 python setup.py install
 ```
 
-## 欢迎star or fork or PR
+欢迎star or fork or PR
