@@ -10,7 +10,7 @@
 2. test/: 程序的测试代码。
 
 ### mini-spider架构图
-![mini-spider]()
+![mini-spider](https://github.com/baiyyang/mini-spider/blob/master/image/min_spider.jpg)
 
 上图为mini_spider爬虫的架构图，主要包括五个部分，分别为爬虫调度模块，URL管理模块，网页下载模块，网页解析模块和网页保存木块。
 其中爬虫调度模块对应spider_main.py文件，是集成调度各个模块的核心；URL管理模块为url_manager.py文件；
