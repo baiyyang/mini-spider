@@ -34,6 +34,3 @@ python spider_main.py -c spider.conf
 python setup.py bdist_egg
 python setup.py install
 ```
-
-fdsafs
-12
