@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+    <link href="/gamedj/static/css/reset.css?version=201611161124" rel="stylesheet" />
+    <link type="text/css" rel="stylesheet" href="/gamedj/static/css/index.css?version=201611161124"/>
+    <script src="http://n.sinaimg.cn/game/homepage/js/jquery.min.js"></script>
+    <script src="http://games.sina.com.cn/307/2014/7/jquery.inview.min.js"></script>
+    <title>决战东京！皇室战争职业联赛全球总决赛明早开战-新浪电竞_电竞赛事_直播报道_新浪电子竞技</title>
+    <meta name="keywords" content="皇室战争,职业联赛,总决赛,电子竞技,DOTA2,英雄联盟,lol,炉石传说,CSGO,赛事报道,直播手游电竞,新浪网" />
+    <meta name="description" content="新浪电竞汇聚国内外电子竞技资讯报道,综合英雄联盟、DOTA2、炉石传说、绝地求生：大逃杀、CSGO、守望先锋等各类竞技游戏电竞赛事新闻、视频直播、战报点评。" />
+</head>
+<body>
+<div id="Ghead">
+    <!--顶部导航包括登录验证开始  依赖于jquery  -->
+    <link type="text/css" rel="stylesheet" href="/gamedj/static/css/dj_strandwhitetop.css?version=201611161124"/>
+    <script src="http://dj.sina.com.cn/gamedj/static/js/gameheader.js?version=201811161122" type="text/javascript" charset="utf-8"></script>
+    <script src="http://i.sso.sina.com.cn/js/ssologin.js?version=201811161122" type="text/javascript" charset="utf-8"></script>
+    <!--顶部导航包括登录验证开始  依赖于jquery -->
+</div>
+
+<!--head-->
+<header>
+    <div class="head_con">
+        <a href="/"><img class="logo" src="/gamedj/static/images/wdj_new/logo.png" /></a>
+        <nav>
+            <ul>
+                <li ><a href="/" target="_blank">电竞首页</a></li>
+                <li class="current"><a href="/information" target="_blank" >游戏资讯</a></li>
+                <li ><a href="/live" target="_blank" >直播聚合</a></li>
+                <li ><a href="/video" target="_blank" >游戏视频</a></li>
+                <li><a href="http://games.sina.com.cn/lol/" target="_blank" >英雄联盟</a></li>
+                <li><a href="http://games.sina.com.cn/dota2/" target="_blank" >DOTA2</a></li>
+                <li><a href="http://txdj.dj.sina.com.cn" target="_blank">腾讯专区</a></li>
+            </ul>
+                            <span class="float_sign" style="left: 126px;"></span>
+                    </nav>
+        <div class="search">
+            <form id="formid" name="cheadSearchForm" method="get" action="/search" target="_blank">
+                <input type="text" placeholder="输入查询信息" name="keywords">
+                <div class="search_btn" onClick="search_form_submit();"></div>
+            </form>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function search_form_submit(){
+            $("#formid").submit();
+        }
+    </script>
+</header>
+<link rel="stylesheet" type="text/css" href="http://news.sina.com.cn/css/87/20140926/comment.3.css">
+<style type="text/css">
+    .img_wrapper img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+<div class="acticle_content">
+    <div class="acticle_container clear">
+        <div class="top_left">
+            <div class="acticle_nav">
+                <ul class="bdsharebuttonbox aticleShare" data-tag="share_1">
+                    <li><a href="javascript:void(0)" class="weibo" data-cmd="tsina"></a></li>
+                    <li><a href="javascript:void(0)" class="weixin"  data-cmd="weixin"></a></li>
+                    <li><a href="javascript:void(0)" class="qzone"  data-cmd="qzone"></a></li>
+                    <li><a href="#SI_FormList1" class="comment"></a></li>
+                </ul>
+                <div class="weixinpop" style="display: none;width: 120px; height: 120px; box-shadow:rgb(0, 0, 0) 0px 0px 15px -6px;left: 70px;top: 37px;"><div class="t" style="left: -4px; top: 50px;  transform: rotate(-90deg); -webkit-transform: rotate(-90deg);"></div> <img style="width: 96px; height: 96px; margin-top: 12px;" src="http://bshare.optimix.asia/barCode?site=weixin&amp;url=http://dj.sina.com.cn/article/hmutuec4956886.shtml#weibo_comment"></div>
+            </div>
+            <div class="acticle_main">
+                <div class="acticle_top">
+                    <div class="breadcrumb">
+                        <a target="_blank" href="/">新浪电竞</a><i> &gt; </i>
+                        <a target="_blank" href="/information">资讯列表</a>
+                        <i> &gt; </i>正文页
+                    </div>
+                    <h1>决战东京！皇室战争职业联赛全球总决赛明早开战</h1>
+                    <div class="txtdetail">
+                        <span class="timer">2018-11-30 11:21</span><span class="Author">作者：新浪电竞</span><span class="from">来源：网络</span>
+                    </div>
+                </div>
+
+                <div class="acticle_body">
+                    <div id="artibody">
+                        <p>　　五洲王者，决战东京！2018皇室战争职业联赛（CRL）全球总决赛将于12月1日（周六）上午10点，在日本东京幕张展览馆震撼开战。来自全球五大赛区以及东道主日本的六支冠军战队，将向首届CRL全球总冠军的荣誉发起冲击。全球总决赛直播期间，登陆CRL中国官网为观赛加油，即可获得免费宝石大奖！</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/games/crawl/781/w500h281/20181130/oh6z-hpinrya8540386.jpg" alt="CRL全球总决赛12月1日开战"><span class="img_descr">CRL全球总决赛12月1日开战</span></div>
+<p>　　<strong>皇室年度大戏！观赛即送宝石</strong></p>
+<p>　　2018年，刚刚成功举办了全球个人锦标赛的皇室战争，又如火如荼开启了以战队为核心的职业化征程，全球按区域划分为中国大陆、亚洲、欧洲、拉丁美洲和北美洲五大赛区，召集共44支顶级职业战队，为“全球最强”的名号展开激烈争夺。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/games/crawl/781/w500h281/20181130/zaK4-hpfyces8479091.jpg" alt="6大冠军战队决战东京"><span class="img_descr">6大冠军战队决战东京</span></div>
+<p>　　在经过秋季赛的洗礼后，中国荣耀Nova Esports、北美豪门Immortals、拉美精灵Vivo Keyd、韩国霸主KING-ZONE DragonX、东道主PONOS Sports以及欧洲之王Team Queso从各大赛区脱颖而出。六支经历了重重考验的战队将齐聚“樱花之国”——日本，为全球亿万皇室粉丝献上一场最高水平的年度大戏。</p>
+<p>　　12月1日CRL东京全球总决赛的盛况，将在所有主流直播平台同步直播。为了助力总决赛、给中国战队NOVA加油打气，CRL全球总决赛比赛期间，玩家登陆CRL中国官网crlcn.cn观赛，即可获得300宝石的奖励。宝石将在总决赛结束后统一发放。</p>
+<p>　　<strong>NOVA火力十足！中国期待圆梦</strong></p>
+<p>　　2017年皇室战争CCGS伦敦总决赛，中国选手风神遗憾止步半决赛、无缘冠军，让万千中国CR粉丝惋惜不已。2018年，中国CRL震撼启航，NOVA战队以王者之姿连续夺得春秋两季联赛冠军，是当之无愧的“中国最强战队”，让众多中国玩家看到了全球总决赛夺冠的希望。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/games/crawl/89/w500h389/20181130/FTES-hphsupx6405930.png" alt="NOVA全力冲击总冠军"><span class="img_descr">NOVA全力冲击总冠军</span></div>
+<p>　　放眼NOVA阵容，春季赛MVP力量哥是NOVA绝对核心——联赛封神，亚运夺银，全球总决赛的冠军，将是力量哥荣誉宝库的最后拼图。而从最佳拍档到秋季赛MVP，Auk同样在一年中历经蜕变，卡组丰富的他是NOVA夺冠的另一关键。天才少年小陈在秋季赛决赛如有神助的精彩操作，让人看到他无穷的上限，东京之战期待他再现神来之笔。除此之外， 冠军教练帽子、越南天王Legend、秘密武器kanerge缺一不可。出征东京，NOVA带着所有人的期待，目标让中国CR重返巅峰！</p>
+<p>　　<strong>决战东京之巅！五洲王者闪耀</strong></p>
+<p>　　作为最高水平的皇室战争比赛，CRL全球总决赛云集了世界最顶尖的CR选手。放眼欧美诸强，Soking领衔的Queso在CRL欧洲赛区中12胜3负势不可挡，向世界展示着他们的强大；北美豪门Immortals，依靠三人班底横扫了整个赛区，单挑王Royal就是他们最大的资本；巴西战队Vivo keyd，凭借王牌选手Javi14的超神发挥，苦战后从拉美赛区逃出生天。</p>
+<p>　　CRL全球总决赛：决战东京预告片！</p>
+<p style="text-align: center;"><iframe src="https://v.qq.com/iframe/player.html?vid=m080178mhlg&amp;tiny=0&amp;auto=0" width="640" height="498" frameborder="0" allowfullscreen=""></iframe></p>
+<p>　　再看亚洲近邻，韩国战队KING-ZONE DragonX凭借着头号巨星X-BOW MASTER的发挥，以黑马姿态从亚洲赛区突围。而全球总决赛落户东京，更让东道主Ponos Sports占据天时地利人和，坐拥主场优势的他们期待在本土掀起“橙色风暴”。再加上众星闪耀的中国NOVA，如此盛宴，岂能不看？</p>
+<p>　　<strong>全新刺激赛制！对抗再度升级</strong></p>
+<p>　　CRL全球总决赛采用种子预选赛+正赛的全新赛制，使得比赛进程更加紧凑而刺激。在先行开战的6强种子队预选赛争夺中，Vivo Keyd凭借Javi14的超神表演、4胜1负排名第一，而Nova同样靠着力量哥的稳扎稳打，有惊无险抢下第二。根据赛制，Vivo Keyd和NOVA两队将率先晋级半决赛，以逸待劳静候挑战者。</p>
+<div class="img_wrapper"><img src="http://n.sinaimg.cn/games/crawl/781/w500h281/20181130/2YoK-hpinrya8540445.png" alt="12月1日总决赛对阵形式"><span class="img_descr">12月1日总决赛对阵形式</span></div>
+<p>　　CRL全球总决赛正赛采用单败淘汰制，除冠亚军决赛为五盘三胜制外，其他场次均为三盘两胜。未能提前晋级半决赛的4支战队将先捉对厮杀，争夺剩下的两个半决赛名额。每队只有一条“命”，预示决赛从一开始就是短兵相接的激烈碰撞，稍有不慎便会满盘皆输。6支战队必须从开局就全力以赴，观众也必将从始至终欣赏到紧张激烈的对决。</p>
+<p>　　两年布局，一朝决胜，首届皇室战争职业联赛即将迎来最终的大戏。6支王者战队，30位顶级选手，将在富士山下打响最梦幻绚丽的终极对决。12月1日上午10点，锁定各大直播平台，见证CRL全球总冠军的诞生！</p>
+                    </div>
+                                    </div>
+                <div class="recommend">
+                    <h3><i></i>相关推荐</h3>
+                    <div class="recommend_con">
+                                                    <div class="pictrue">
+                                <a href="http://weibo.com/sinaesports">
+                                    <img src="http://n.sinaimg.cn/games/20161110/XGf--fxxsmif2660901.jpg" />
+                                    <div class="mask"></div>
+                                   
+                                </a>
+                            </div>
+                                                                            <div class="recommend_list">
+                                <ul>
+                                                                            <li><i></i><a href="/article/hmutuec4798889.shtml" target="_blank">2018《皇室战争》CRL总决赛，决战东京！</a></li>
+                                                                            <li><i></i><a href="/article/hpevhcm3609567.shtml" target="_blank">《皇室战争》CRL全球总决赛，一起为NOVA加油！</a></li>
+                                                                            <li><i></i><a href="/article/hpevhcm3605235.shtml" target="_blank">皇室战争CRL全球总决赛，力量哥能否力战群雄？</a></li>
+                                                                            <li><i></i><a href="/article/hnaivxq1946914.shtml" target="_blank">皇室战争职业联赛秋季赛冠军诞生！NOVA卫冕成功</a></li>
+                                                                            <li><i></i><a href="/article/hiixyeu0844618.shtml" target="_blank">亚运会《皇室战争》：一场持续12小时的鏖战</a></li>
+                                                                    </ul>
+                            </div>
+                                            </div>
+                </div>
+                <!--<div class="sina-comment-wrap" id="SI_FormList1"></div>
+                <script src="http://i.sso.sina.com.cn/js/ssologin.js" charset="utf-8"></script>-->
+				<div class="sina-comment-wrap" id="SI_FormList1"></div>
+				<script src="http://i.sso.sina.com.cn/js/outlogin_layer.js" charset="utf-8"></script>
+                <script src="http://news.sina.com.cn/js/87/20140926/comment.3.min.js"></script>
+                <!--<script>
+                    ;(function(exports){
+                        var $ = exports.___sinacMNT___;
+                        var FormList11 = new $.cmnt.FormList('SI_FormList1',{
+                            // 频道
+                            channel:'yx',
+                            // 新闻id
+                            newsid:'comos-hmutuec4956886',
+                            parent:'',
+                            // 编码，默认为gbk,可使用utf-8,一般和页面编码一致
+                            encoding:'utf-8'
+                        },{
+                            // 频道
+                            channel: 'yx',
+                            // 新闻id
+                            newsid:'comos-hmutuec4956886',
+                            // 评论类型，单条新闻为0（如正文页评论），多条新闻为1（如高清图评论）
+                            group: 0,
+                            // 编码，默认为gbk,可使用utf-8,一般和页面编码一致
+                            encoding:'utf-8',
+                            // 第几张开始加载，默认为1
+                            page: 1,
+                            // 每次显示条数，默认为20
+                            pageSize: 20,
+                            // 隐藏评论列表
+                            hideList:0,
+                            // 最新评论默认显示条数
+                            hotPageNum:5,
+                            // 最新评论默认显示条数
+                            firstPageNum:5,
+                            // 可点击最新评论正文“更多评论”按钮次数,达到该次数后，显示“查看更多评论”链接，再点击则跳转
+                            clickMoreTimes:3,
+                            // 加载完成回调，可在回调中获取评论数等评论数据
+                            loaded:function(self){
+                                // console.log(self);
+                            }
+                        },{});
+                    })(window);
+                </script>-->
+				<script>
+					;(function(exports){
+						var $ = exports.___sinacMNT___;
+						// 保持和页面编码一致，gbk或utf-8
+						$.cmnt.config.encoding = 'utf-8';
+						var FormList1 = new $.cmnt.FormList('SI_FormList1',{
+							// 频道编号
+							channel:'yx',
+							// 新闻id
+							newsid:'comos-hmutuec4956886',
+							// 默认为空
+							parent:''
+						},{
+							channel: 'yx',
+							// 新闻id
+							newsid:'comos-hmutuec4956886',
+							// 默认为0，多条新闻（图片）集合的评论为1
+							group: 0,
+							// 开始页数，默认为1
+							page: 1,
+							// 每页评论条数
+							pageSize: 20,
+							// 最大楼层
+							maxFloor:1,
+							 // 隐藏评论列表，只显示评论框
+							hideList:0
+							// // 最新评论默认显示条数
+							// hotPageNum:5,
+							// // 最新评论默认显示条数
+							// firstPageNum:5,
+							// // 可点击最新评论正文“更多评论”按钮次数,达到该次数后，显示“查看更多评论”链接，再点击则跳转
+							// clickMoreTimes:3
+						},{});
+					})(window);
+				</script>
+            </div>
+        </div>
+        <div class="top_right">
+            <div class="Ad_slots">
+    <a href="http://dj.sina.com.cn/search?keywords=s8" target="_blank"><img src="http://n.sinaimg.cn/games/590/w340h250/20181102/joS1-hnfikve9098382.png"></a>
+</div>
+
+                            <!--热门资讯-->
+                <div class="Hot_news">
+                    <div class="module_title clear">
+                        <h2>
+                            <p class="chinese">热门资讯</p>
+                            <p class="english">HOT NEWS</p>
+                            <span class="mark_line"></span>
+                        </h2>
+                    </div>
+                    <div class="Hot_news_list">
+                        <ul>
+                                                                                                <li><i class="te">1</i><a href="/article/hprknvu0598951.shtml">A队大满贯成就达成 奖励解锁 IGS第一季落幕</a></li>
+                                                                                                                                <li><i class="te">2</i><a href="/article/hmutuec7787245.shtml">雪地图上线，PUBG每日玩家数量持续上升</a></li>
+                                                                                                                                <li><i class="te">3</i><a href="/article/hprknvu0566378.shtml">WES电子竞技锦标赛（广东赛区)War3江门开赛</a></li>
+                                                                                                                                <li><i>4</i><a href="/article/hprknvu0513454.shtml">Hero久竞4:2拿下TS，晋级2018KPL秋季赛总决赛</a></li>
+                                                                                                                                <li><i>5</i><a href="/article/hmutuec7764024.shtml">CSGO进入免费时代 游戏未来该往何处去</a></li>
+                                                                                                                                <li><i>6</i><a href="/article/hmutuec7762910.shtml">老将不朽，传奇中单430尚能饭否？尚能！</a></li>
+                                                                                                                                <li><i>7</i><a href="/article/hmutuec7750318.shtml">大满贯王朝 A队击败液体问鼎EPL完成大满贯</a></li>
+                                                                                                                                <li><i>8</i><a href="/article/hprknvu0352779.shtml">大魔王归来！Liquid零封Navi问鼎冬季对抗赛冠军</a></li>
+                                                                                                                                <li><i>9</i><a href="/article/hprknvu0358652.shtml">S9各大赛区开赛时间公布，LPL将于1月14日开打</a></li>
+                                                                                                                                <li><i>10</i><a href="/article/hmutuec7684735.shtml">WEGL微博杯海选赛B组：VC 55分领跑B组积分榜</a></li>
+                                                                                    </ul>
+                    </div>
+                </div>
+                            <!--热门视频-->
+    <div class="Hot_videos">
+        <div class="module_title clear">
+            <h2>
+                <p class="chinese">热门视频</p>
+                <p class="english">HOT VIDEOS</p>
+                <span class="mark_line"></span>
+            </h2>
+        </div>
+        <div class="Hot_videos_list">
+                                    <div class="video_list">
+                <div class="article_pic">
+                    <a href="http://games.sina.com.cn/news/yw/2018-11-28/esports-ihpevhcm1346222.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/639/w400h239/20181128/B89r-hphsupx4863317.jpg" style="opacity: 1;"><i class="video_btn"></i></a>
+                </div>
+                <p class="article_title"><a href="http://games.sina.com.cn/news/yw/2018-11-28/esports-ihpevhcm1346222.shtml" target="_blank">2018英雄联盟音乐节暨颁奖之夜12月1日律动西安</a></p>
+            </div>
+                                    <div class="video_list">
+                <div class="article_pic">
+                    <a href="http://games.sina.com.cn/news/yw/2018-11-27/esports-ihmutuec4141519.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/639/w400h239/20181127/2dnY-hphsupx4164738.png" style="opacity: 1;"><i class="video_btn"></i></a>
+                </div>
+                <p class="article_title"><a href="http://games.sina.com.cn/news/yw/2018-11-27/esports-ihmutuec4141519.shtml" target="_blank">英雄联盟官方：两分钟带你看懂2019季前赛改动</a></p>
+            </div>
+                                    <div class="video_list">
+                <div class="article_pic">
+                    <a href="http://games.sina.com.cn/news/yw/2018-11-16/esports-ihmutuec0727685.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/639/w400h239/20181116/r3ie-hnvukff7277920.png" style="opacity: 1;"><i class="video_btn"></i></a>
+                </div>
+                <p class="article_title"><a href="http://games.sina.com.cn/news/yw/2018-11-16/esports-ihmutuec0727685.shtml" target="_blank">EA冠军杯2018冬季赛决赛16日~17日精彩开启！</a></p>
+            </div>
+                                    <div class="video_list">
+                <div class="article_pic">
+                    <a href="http://games.sina.com.cn/news/yw/2018-11-15/esports-ihnvukff1652412.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/639/w400h239/20180601/omNd-fzrwiaz6154848.jpg" style="opacity: 1;"><i class="video_btn"></i></a>
+                </div>
+                <p class="article_title"><a href="http://games.sina.com.cn/news/yw/2018-11-15/esports-ihnvukff1652412.shtml" target="_blank">印迹：从上海到西安 WE的西行之旅</a></p>
+            </div>
+                    </div>
+    </div>
+    
+                <!--原创推荐-->
+    <div class="Original">
+        <div class="module_title clear">
+            <h2>
+                <p class="chinese">原创推荐</p>
+                <p class="english">Original</p>
+                <span class="mark_line"></span>
+            </h2>
+        </div>
+        <div class="Original_con">
+            <div class="Original_b">
+                <div class="pictrue">
+                    <a href="http://dj.sina.com.cn/article/fyvtmxc7495502.shtml" target="_blank">
+                        <img src="http://n.sinaimg.cn/games/507/w330h177/20180409/HC2r-fyvtmxe4832082.png">
+                        <div class="mask"></div>
+                        <p>成千上万名设计师制作不一样的英雄联盟</p>
+                    </a>
+                </div>
+            </div>
+                                    <div class="Original_s">
+                <div class="pictrue">
+                    <a href="http://games.sina.com.cn/news/sd/2018-12-06/esports-ihmutuec6691002.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/639/w400h239/20181206/plQO-hpfycet4626435.jpg"></a>
+                </div>
+                <p class="article_title"><a href="/article/hmutuec6691002.shtml" target="_blank">DOTA圈头号戏精诞生？看看TNC到底是怎么个演法</a></p>
+                <p class="time">2018-12-06 11:52:24</p>
+            </div>
+                                                <div class="Original_s">
+                <div class="pictrue">
+                    <a href="http://games.sina.com.cn/news/sd/2018-12-05/esports-ihprknvt1301545.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/639/w400h239/20181205/Zrjj-hpinryc3523294.jpg"></a>
+                </div>
+                <p class="article_title"><a href="/article/hprknvt1301545.shtml" target="_blank">在韩国，玩游戏做“代练”可能要入刑了</a></p>
+                <p class="time">2018-12-05 09:53:21</p>
+            </div>
+                                                        </div>
+    </div>
+    
+            <div class="Ad_slots">
+    <a href="http://dj.sina.com.cn/esports/wucg2018.shtml" target="_blank"><img src="http://n.sinaimg.cn/games/590/w340h250/20181102/GZ58-hnfikve9068150.jpg"></a>
+</div>
+
+        </div>
+    </div>
+</div>
+<script>
+    var pagecount = 0;
+    function changePage(page){
+        page = page ? parseInt(page) : 1;
+        $.ajax({
+            type: 'GET',
+            dataType: 'json',
+            cache : false,
+            url:"/ajax_fun/get_content_news/hmutuec4956886/"+page,
+            success:function(msg){
+                if(msg && msg.status == "succ"){
+                    var leng = msg.num;
+                    var pre = page -1;
+                    var preDis = pre?'next':'Disabled';
+                    var preClick = pre?' onclick = "changePage('+pre+')"':'';
+                    var pagenum = '<div class="page_more"><div class="pageZone"><span title="上一页" class="'+preDis+'" data-page="'+pre+'"><a href="javascript:void(0);"'+preClick+' data-page="'+pre+'">上一页</a></span>';
+                    var isNow = '';
+                    var pageclick = '';
+                    for(var i =1;i<=leng;i++){
+                        if(i == page){
+                            isNow = "isNow";
+                            pageclick = '';
+                        }else{
+                            isNow = 'jump';
+                            pageclick = ' onclick="changePage('+i+')"';
+                        }
+                        pagenum += '<span title="'+i+'" class="'+isNow+'" data-page="'+i+'"><a href="javascript:void(0);"'+pageclick+' data-page="'+i+'">'+i+'</a></span>';
+                    };
+                    var next = page + 1;
+                    var nextDis = page >= leng?'Disabled':'jump';
+                    var nextClick = page >= leng?'':' onclick = "changePage('+next+')"';
+                    pagenum += '<span title="下一页" class="next '+nextDis+'" data-page="'+next+'"><a href="javascript:void(0);"'+nextClick+' data-page="'+next+'">下一页</a></span></div></div>';
+                    if(msg.list){
+                        $("#artibody").html(msg.list);
+                        $(".page1").html(pagenum);
+                    }
+                    document.body.scrollTop =150;
+                }
+            }
+        });
+    };
+    //左侧按钮
+    var nav_top = $('.acticle_nav').offset().top;
+    $(window).scroll(function() {
+        var s_top = $(window).scrollTop();
+        if(s_top >= nav_top - 20){
+            $('.acticle_nav').css({'position':'fixed' , 'top' : 20,})
+        }else {
+            $('.acticle_nav').removeAttr('style')
+        }
+    });
+    //右侧 浮动 
+     (function(){
+        var RightTop = $('.top_right').offset().top;
+        $(window).scroll(function() {
+            var LeftTop = $('.top_left').offset().top;
+            var Leftheight = $('.top_left').height();
+            var RightHeight = $('.top_right').height();
+            var WindowHeight = $(window).height();
+            var ScrollTop = $(window).scrollTop();
+            if(Leftheight>RightHeight){
+                if(ScrollTop>=RightTop+RightHeight-WindowHeight){
+                if(ScrollTop<=LeftTop+Leftheight-WindowHeight){
+                    $('.top_right').addClass('rfixed');
+                    $('.top_right').removeClass('rfixed2');
+                }else if(ScrollTop>LeftTop+Leftheight-WindowHeight) {
+                    $('.top_right').addClass('rfixed2');
+                }
+                }else{
+                    $('.top_right').removeClass('rfixed rfixed2');
+                }
+            }
+
+        })
+    })();
+    //weixinpop
+    $(document).on('click','.aticleShare a',function (e) {
+        if($(this).attr('data-cmd')=='weixin'){
+            e.preventDefault();
+            e.stopPropagation();
+        }
+        var pos = $(this).offset();
+        var _this = $(this)
+        var href = $.trim(window.location.href);
+        console.log(href);
+        //使用了外部接口
+        $(".weixinpop").show();
+        //$('.weixinpop').css({left:pos.left+60, top:pos.top-40}).show();
+    });
+    //点击空白处消失
+    $(document).click(function (e) {
+        $('.weixinpop').hide();
+    });
+</script>
+<!-- end 添加js -->
+<!--footer-->
+<div class="foot1" style="position: relative">
+    <div class="foot1_con">
+                <div class="Friend_link">
+            <p class="title">友情链接</p>
+                                            <ul class="link_list link_list1">
+                    <li>
+                        <a href="http://games.sina.com.cn/" target="_blank">新浪游戏</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list1">
+                    <li>
+                        <a href="http://kan.sina.com.cn/" target="_blank">看游戏</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list1">
+                    <li>
+                        <a href="http://sports.sina.com.cn/" target="_blank">新浪体育</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list2">
+                    <li>
+                        <a href="http://games.sina.com.cn/vg/" target="_blank">电玩游戏</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list2">
+                    <li>
+                        <a href="http://games.sina.com.cn/z/wow/indexpage.shtml" target="_blank">魔兽世界</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list2">
+                    <li>
+                        <a href="http://k.18183.com/" target="_blank">K电竞</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list3">
+                    <li>
+                        <a href="http://lol.dj.sina.com.cn/" target="_blank">英雄联盟</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list3">
+                    <li>
+                        <a href="http://dota2.dj.sina.com.cn/" target="_blank">DOTA2</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list3">
+                    <li>
+                        <a href="http://www.huomao.com" target="_blank">火猫直播</a>
+                    </li>
+                </ul>
+                                            <ul class="link_list link_list3">
+                    <li>
+                        <a href="http://www.famulei.com/" target="_blank">伐木累</a>
+                    </li>
+                </ul>
+                                                                                                                                                                                    </div>
+                <div class="Official_weixin">
+            <p class="title">官方微信</p>
+            <div class="QR">
+                <img src="/gamedj/static/images/wdj_new/QR2.jpg" />
+                <p>电竞研究社官方微信</p>
+            </div>
+        </div>
+        <div class="Share_contact">
+            <p class="title">分享联系</p>
+            <div class="share">
+                <a title="分享到新浪微博" href="http://weibo.com/sinaesports?refer_flag=1001030101_&is_hot=1" class="share_btn weibo" target="_blank"></a>
+                <a title="分享到微信" href="javascript:void(0);" id="foot_weixin" class="share_btn weixin"></a>
+                <a href="http://connect.qq.com/widget/shareqq/index.html?url=http://dj.sina.com.cn&title=新浪电竞-专业电竞媒体-赛事直播报道-新浪电子竞技&description=新浪电竞是国内专业电竞门户网站,综合英雄联盟、DOTA2、炉石传说、魔兽争霸、CSGO、守望先锋等各类竞技游戏电竞赛事资讯报道、视频直播、战报点评。&charset=utf-8;" target="_blank" data-cmd="more" class="share_btn mshare"></a>
+            </div>
+            <p class="mailbox"><i></i> <a title="发送邮箱" href="Mailto:yys@dj.sina.cn" style="color:#808080">yys@dj.sina.cn </a></p>
+        </div>
+    </div>
+    <script>
+        $(function(){
+            $('#foot_weixin').click(function(e){
+                $('.foot1').append(' <div class="weixinpop" style="top: 210px;left: 50%;margin-left: 260px;"><div class="t"></div><img src="http://bshare.optimix.asia/barCode?site=weixin&amp;url=http://dj.sina.com.cn/article/fxxsmif3134363.shtml">用微信扫描二维码<br>分享至微信朋友圈</div>')
+                e.stopPropagation();
+            })
+        })
+    </script>
+</div>
+<footer>
+    <p class="firstLine"><a href="javascript:void(0);">新浪简介</a><span class="interval">|</span><a href="javascript:void(0);">About Sina</a><span class="interval">|</span><a href="javascript:void(0);">网站地图</a><span class="interval">|</span><a href="javascript:void(0);">广告服务</a><span class="interval">|</span><a href="javascript:void(0);">联系我们</a><span class="interval">|</span><a href="javascript:void(0);">招聘信息</a><span class="interval">|</span><a href="javascript:void(0);">网站律师</a><span class="interval">|</span><a href="javascript:void(0);">SINA English</a><span class="interval">|</span><a href="javascript:void(0);">通行证注册</a><span class="interval">|</span><a href="javascript:void(0);">产品答疑</a></p>
+    <p>Copyright © 1996-2016 SINA Corporation, All Rights Reserved</p>
+    <p>新浪公司 版权所有</p>
+</footer>
+
+<!--右边按钮-->
+<div class="right_btn">
+    <a class="weixin" href="javascript:void(0);"><i></i></a>
+    <a class="totop" href="javascript:void(0);"><i></i></a>
+    <img class="QR" src="/gamedj/static/images/wdj_new/right_qr.png" />
+</div>
+<script src="/gamedj/static/js/jquery.easing.js?version=201811161122"></script>
+<script src="/gamedj/static/js/public.js?version=201811161122"></script>
+
+<script>
+    //赛程切换
+    (function () {
+        var $Tag = $(".Schedule_tag").find("li");
+        var $con = $(".Schedule_con");
+        var $float_Sign = $(".Schedule_float_sign");
+        changeTag($Tag, $con, "current", "click", function ($tag,index) {
+            $float_Sign.stop().animate({
+                "left": $tag.position().left - 1 ,
+                "width": $tag.width() + 2,
+            },{duration:300,easing: "easeOutBack"})
+            if($con.eq(index).find('.scroll_con').length == 0){
+                Wscroll($con.eq(index))
+            }
+        })
+    })();
+    
+    //视频切换
+    (function () {
+        var $Tag = $(".Hot_videos_tag").find("a");
+        var $con = $(".Hot_videos_con");
+        var $float_Sign = $(".videos_float_sign");
+        changeTag($Tag, $con, "current", "click", function ($tag) {
+            $float_Sign.stop().animate({
+                "left": $tag.position().left - 1 ,
+                "width": $tag.width(),
+            },{duration:300,easing: "easeOutBack"});
+            $con.removeClass("video_cur");
+            //var index = $(".Hot_videos_tag .current").index($Tag)
+            var index = $Tag.index($(".Hot_videos_tag .current"));
+            $con.eq(index).addClass("video_cur");
+        })
+    })();
+    //深度报道
+    (function () {
+        var $Tag = $(".detailed_list");
+        changeTag($Tag, null, "active", "hover")
+    })();
+    /*资讯图片延迟加载*/
+   /*
+    $('.E_sports_news img[data-src]').live('inview', function(event, isVisible) {
+        if (!isVisible) {
+            return;
+        }
+        var _this = $(this);
+        _this.load(function() {
+            _this.css({opacity: 1});
+            console.log("come in");
+        });
+        _this.attr('src', _this.attr('data-src'));
+
+        _this.removeAttr('data-src');
+    });*/
+    
+    /*延时加载页面图片*/
+    $('.E_sports_news img[data-src]').live('inview', function(event, isVisible) {
+      if (!isVisible) {return;}
+      var img = $(this);
+      // Show a smooth animation
+      img.css('opacity', 0);
+      img.attr('src',"");
+      img.load(function() { img.animate({ opacity: 1 }, 500); });
+      // Change src
+      img.attr('src', img.attr('data-src'));
+      // Remove it from live event selector
+      img.removeAttr('data-src');
+    });
+   
+
+    //首页热门专题
+    $('.Popular_topics').live('inview', function(event, isVisible) {
+        if (!isVisible) {
+            return;
+        }
+        $(this).find('.Popular_topics_list').addClass('enlarge')
+    });
+
+    
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1ec76ed58610652c8364bc543c6f2c9f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!-- SUDA_CODE_START -->
+<script type="text/javascript" charset="utf-8" src="http://mjs.sinaimg.cn/wap/public/suda/201611031750/suda_log.min.js"></script>
+<!-- SUDA_CODE_END -->
+</body>
+</html>
+
+
